@@ -1,6 +1,9 @@
 # Print Quality Analysis Tool
 
+
 This project provides a web-based application for analyzing the print quality of scanned documents by comparing them against a template. It identifies issues such as misalignment and blur, providing visual feedback and quantitative metrics.
+
+
 ---
 
 https://github.com/user-attachments/assets/d488136b-b1d7-48fe-bcc9-ffd6febb1ca0
